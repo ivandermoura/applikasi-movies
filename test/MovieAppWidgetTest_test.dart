@@ -1,10 +1,8 @@
-
 import 'package:flutter/material.dart';
 import 'package:applikasi_movies/Movie.dart';
 import 'package:applikasi_movies/MovieDetail.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:image_test_utils/image_test_utils.dart';
-
 
 void main() {
 
