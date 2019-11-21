@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hao/Movie.dart';
-import 'package:hao/MovieList.dart';
+import 'package:applikasi_movies/Movie.dart';
+import 'package:applikasi_movies/MovieList.dart';
 
 
 void main() {
