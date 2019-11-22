@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:hao/MovieList.dart';
+import 'package:applikasi_movies/MovieList.dart';
 
 void main() => runApp(Main());
 

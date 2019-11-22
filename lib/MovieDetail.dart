@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:hao/Movie.dart';
+import 'package:applikasi_movies/Movie.dart';
 
 
 class MovieDetail extends StatelessWidget {

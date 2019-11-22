@@ -5,8 +5,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:hao/Movie.dart';
-import 'package:hao/MovieDetail.dart';
+import 'package:applikasi_movies/Movie.dart';
+import 'package:applikasi_movies/MovieDetail.dart';
 
 class MovieList extends StatelessWidget {
   /// Method to get movies from the backend
