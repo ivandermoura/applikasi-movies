@@ -12,9 +12,12 @@ class Main extends StatelessWidget {
             // App toolbar code
               appBar: new AppBar(
                 title: new Text('Movie List'),
+                backgroundColor: Colors.red,
               ),
               body: new MovieList()
-          )
+          ),
+          debugShowCheckedModeBanner: false,
+
       );
   }
 }
